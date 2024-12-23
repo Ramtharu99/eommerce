@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Laptop",
+        "category":"Computer",
+        "brand":"ExampleBrand",
+        "price":999.99,
+        "stock":50,
+        "description":"Powerful laptop with a quad-core is processor, 8GB RAM, 256Gb SSD, and a 14-inch FHD display.",
+        "image":"./public/apiphotos/MacBook_Air_13.png"
+    },
+    {
+        "id":2,
+        "name":"Smartphone",
+        "category":"Mobiles",
+        "brand":"TechGadget",
+        "price":499.99,
+        "stock":40,
+        "description":" iPhone 16 Pro features a durable titanium design with a refined microblasted texture, available in four stunning finishes, including Desert Titanium. With 128GB,256GB, and 512GB storage.",
+        "image":"./public/apiphotos/phone-removebg-preview.png"
+    }
+]
